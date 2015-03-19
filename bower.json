@@ -1,0 +1,30 @@
+{
+  "name": "jFeed",
+  "version": "0.0.0",
+  "homepage": "https://github.com/maclennann/jFeed",
+  "description": "rss feed parser for jquery",
+  "main": "build/dist/jquery.jfeed.js",
+  "moduleType": [
+    "globals"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "jquery-migrate": "*"
+  },
+  "keywords": [
+    "jquery",
+    "jfeed",
+    "rss",
+    "atom",
+    "feed"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
